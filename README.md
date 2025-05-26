@@ -1,7 +1,7 @@
 <h1 align="center">667 revorevorevorevorevo</h1>
 <h3 align="center">A passionate backend developer from Dystopia</h3>
 
-- 🤝 I’m looking for help for **dealing with myself**
+- 🤝 I’m looking help for **dealing with myself**
 
 - 💬 Ask me about **how can i become like you**
 
